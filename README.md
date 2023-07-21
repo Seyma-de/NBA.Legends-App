@@ -42,7 +42,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![Project gifi]/gif/legends.gif
+![Project gifi]/legends.gif
 
 
 
